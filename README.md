@@ -1,0 +1,1 @@
+<img width="804" alt="Screenshot 2024-03-06 at 8 14 48 PM" src="https://github.com/mbsanjayp66/Event-Driven-Design-Using-RabbitMq-SpringBoot-Microservice/assets/50950479/1298f83d-fb97-4dfb-a8fd-d36adba87d8e">
